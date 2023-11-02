@@ -1,0 +1,10 @@
+h1 {
+	font-size: 50px;
+	color: white;
+	background-color: maroon;
+}
+.box{
+	min-height: 100vh;
+	color: white;
+	background-color: red;
+}
